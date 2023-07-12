@@ -16,5 +16,9 @@ mkdir -p ./build && cd ./build
 ```
 
 ```console
+cmake ..
+```
+
+```console
 make -j 6
 ```
