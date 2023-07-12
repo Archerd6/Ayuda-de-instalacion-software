@@ -1,2 +1,2 @@
-# Ayuda_de_instalacion_software
+# Ayuda de instalacion software
 Repositorio para recopilar métodos para compilar algunos programas de codigo abierto
