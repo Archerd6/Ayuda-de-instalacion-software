@@ -1,6 +1,7 @@
 # Compilar PCSX2 en Ubuntu
 
 <div style="text-align: justify">
+
 El script para instalar las dependencias necesarias es `Dependencias-Ubuntu.sh`. Es una sola linea de código en la que se instalan muchas de las dependencias necesarias para compilar mediante `apt install`.
 
 Una vez instaladas las dependencias, solo se tiene que seguir los siguientes pasos:
@@ -34,6 +35,7 @@ make -j 6
 ## Versiones anteriores de ubuntu
 
 <div style="text-align: justify">
+
 En algunas versiones no tan recientes de ubuntu no se pueden instalar todas las librerías correctamente, por lo que haría falta una modificación adicional para que se instalen (agregar los repositorios de `backports` de Debian Bullseye)
 
 
